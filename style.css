@@ -52,15 +52,15 @@ body
 }
 .home-fluid {
     position: relative;
-    width: 100%;
-    justify-content: space-between;
+    width: 50%;
+    justify-content: flex-start;
     height: 100vh;
-    background: url(w2.JPG) no-repeat;
+    background-image: url("waal2.JPG") ;
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
-    padding: 70px 10% 0;
+    /* padding: 70px 10% 0; */
 }
 .home-content {
     max-width: 600px;
