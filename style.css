@@ -661,7 +661,7 @@ section{
     0 0 100px cyan,0 0 150px cyan, 
     0 0 200px cyan;
 }
-/* .last-text p {
+.last-text p {
     width: 100%;
     text-align: center;
     padding: 25px 0;
@@ -680,7 +680,7 @@ section{
     font-size: 20px;
     padding: 10px;
     border-radius: 0.5rem;
-} */
+} 
 
 @keyframes slideRight {
     0% {
