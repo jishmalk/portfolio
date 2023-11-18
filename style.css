@@ -661,14 +661,14 @@ section{
     0 0 100px cyan,0 0 150px cyan, 
     0 0 200px cyan;
 }
-.last-text p {
+/* .last-text p {
     width: 100%;
     text-align: center;
     padding: 25px 0;
     background: rgb(7,85,91);
     font-weight: 300;
-    margin-top: 70px;
-}
+    margin-top: 70px; */
+/* } */
 .top{
     position: fixed;
     bottom: 2.1rem;
@@ -687,7 +687,7 @@ section{
         transform: translateX(-100px);
         opacity: 0;
     }
-    100% {
+    100% { 
         transform: translateX(0px);
         opacity: 1;
     }
